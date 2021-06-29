@@ -1,6 +1,6 @@
-<h2>Hey there! I'm Sujith</h2>
+##Hey there! I'm Sujith
 
-### Hi there 👋
+### 👨🏻‍💻 &nbsp;About Me
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
