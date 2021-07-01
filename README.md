@@ -34,7 +34,6 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align='center'>
-<a href="mailto:sujithcssujith008@gmail.com"><img src="https://img.shields.io/badge/-sujithcssujith008@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://linkedin.com/in/sujith-c-s-2a2614171"><img src="https://img.shields.io/badge/-Sujith%20C%20S-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/_s_c_s._/"><img src="https://img.shields.io/badge/-@_s_c_s._-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.hackerrank.com/Code_Sujith"><img src="https://img.shields.io/badge/-@Code_Sujith-1769FF?style=flat&logo=Hackerrank&logoColor=black"/></a>
