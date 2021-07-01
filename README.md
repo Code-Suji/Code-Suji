@@ -31,4 +31,9 @@
 </a>
 </p>
 
+### 🤝🏻 &nbsp;Connect with Me
 
+<p align='center'>
+  <a href="https://linkedin.com/in/sujith-c-s-2a2614171"><img src="https://img.shields.io/badge/-Sujith%20C%20S-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  
+  </p>
