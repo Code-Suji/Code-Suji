@@ -35,5 +35,5 @@
 
 <p align='center'>
   <a href="https://linkedin.com/in/sujith-c-s-2a2614171"><img src="https://img.shields.io/badge/-Sujith%20C%20S-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-  
+  <a href="https://www.instagram.com/_s_c_s._/"><img src="https://img.shields.io/badge/-@_s_c_s._-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
   </p>
