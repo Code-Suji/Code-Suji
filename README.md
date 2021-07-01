@@ -1,4 +1,4 @@
-## 👋 &nbsp;Hey there! I'm Sujith
+## <img src='https://github.com/Code-Suji/Code-Suji/blob/main/gif/Hi.gif' width='30px'> &nbsp;Hey there! I'm Sujith
 
 ### 👨🏻‍💻 &nbsp;About Me
 💡 &nbsp;I like to explore new technologies.\
@@ -40,4 +40,3 @@
 <a href="https://www.hackerrank.com/Code_Sujith"><img src="https://img.shields.io/badge/-@Code_Sujith-1769FF?style=flat&logo=Hackerrank&logoColor=black"/></a>
 <a href="https://www.sololearn.com/profile/3165798"><img src="https://img.shields.io/badge/-Sujith C S-1769FF?style=flat&logo=Sololearn&logoColor=white"/></a>
 </p>
------
