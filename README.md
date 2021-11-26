@@ -37,3 +37,5 @@
 <a href="https://www.hackerrank.com/Code_Sujith"><img src="https://img.shields.io/badge/-@Code_Sujith-1769FF?style=flat&logo=Hackerrank&logoColor=black"/></a>
 <a href="https://www.sololearn.com/profile/3165798"><img src="https://img.shields.io/badge/-Sujith C S-1769FF?style=flat&logo=Sololearn&logoColor=white"/></a>
 </p>
+
+[![Visits Badge](https://badges.pufler.dev/visits/Code-Suji/git-badges)](https://github.com/Code-Suji)
