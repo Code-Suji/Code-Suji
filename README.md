@@ -38,4 +38,4 @@
 <a href="https://www.sololearn.com/profile/3165798"><img src="https://img.shields.io/badge/-Sujith C S-1769FF?style=flat&logo=Sololearn&logoColor=white"/></a>
 </p>
 
-[![Visits Badge](https://badges.pufler.dev/visits/Code-Suji/git-badges)](https://github.com/Code-Suji)
+[![Visits Badge](https://badges.pufler.dev/visits/Code-Suji/git-badges)](https://badges.pufler.dev)
