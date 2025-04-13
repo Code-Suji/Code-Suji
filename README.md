@@ -1,41 +1,40 @@
-## <img src='https://github.com/Code-Suji/Code-Suji/blob/main/gif/Hi.gif' width='30px'> &nbsp;Hey there! I'm Sujith
+## <img src='https://github.com/Code-Suji/Code-Suji/blob/main/gif/Hi.gif' width='30px'> &nbsp;Hello! I'm Sujith  
 
-### 👨🏻‍💻 &nbsp;About Me
-💡 &nbsp;I like to explore new technologies.\
-🌱 &nbsp;Ambitious and dedicated Engineering fresher.\
-🎓 &nbsp;I completed B.Tech in Computer Science and Engineering from Government Engineering College Idukki .\
-:bar_chart: &nbsp;Looking forward to work in a competitive environment that can boost my overall learning .
+### 💼 &nbsp;Professional Overview  
+**Software Developer** at **IBM** specializing in **web development** with a focus on **React**.  
+Experienced in building scalable applications using **Node.js, Java Spring Boot, and modern frontend frameworks**.  
 
-
-### 🛠 &nbsp;Tech Stack
-![Node](https://img.shields.io/badge/-Node-05122A?style=flat&logo=nodedotjs)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+### 🛠 &nbsp;Technical Stack  
+**Frontend:**  
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;  
+
+**Backend:**  
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=nodedotjs)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk)&nbsp;
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=spring)&nbsp;  
+
+**Tools & DevOps:**  
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![MYSQL](https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql&logoColor=white)&nbsp;
+![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code)&nbsp;  
 
-
-### ⚙️ &nbsp;GitHub Analytics
+### 📊 &nbsp;GitHub Analytics  
 <p align="center">
-<a href="https://github.com/Code-Suji">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Code-Suji&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Code-Suji&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <a href="https://github.com/Code-Suji">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Code-Suji&show_icons=true&theme=algolia&hide_border=true&include_all_commits=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Suji&layout=compact&theme=algolia&hide_border=true"/>
+  </a>
+  <br>
+  <img src="https://streak-stats.demolab.com?user=Code-Suji&theme=algolia&hide_border=true" alt="GitHub Streak">
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
-
-<p align='center'>
-<a href="https://www.linkedin.com/in/sujithcs/"><img src="https://img.shields.io/badge/-Sujith%20C%20S-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/_s_c_s._/"><img src="https://img.shields.io/badge/-@_s_c_s._-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.hackerrank.com/Code_Sujith"><img src="https://img.shields.io/badge/-@Code_Sujith-1769FF?style=flat&logo=Hackerrank&logoColor=black"/></a>
-<a href="https://www.sololearn.com/profile/3165798"><img src="https://img.shields.io/badge/-Sujith C S-1769FF?style=flat&logo=Sololearn&logoColor=white"/></a>
+### 🤝 &nbsp;Professional Connect  
+<p align="center">
+  <a href="https://www.linkedin.com/in/sujithcs/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
-
